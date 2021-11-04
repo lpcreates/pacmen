@@ -6,6 +6,7 @@ The PacMen will travel the screen randomly, bouncing off the edges. If the "Star
 In the future, I hope to add a "Reset" button. I also hope to update the images to change each time a PacMan hits an edge. I also hope to add a track to create more of a game.
 <br>
 <br>
+How to Run: Create new folder on your local system. Copy index.html, Pacmen.js and images folder to the folder. Double click or right click/open index.html
 A working model can be viewed on github pages. https://lpcreates.github.io/pacmen/
 <br>
 <br>
